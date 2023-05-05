@@ -1,0 +1,9 @@
+Lock held in schedule: 
+   No Lock
+   T1 - Exclusive Lock (1)  
+   T1 - Exclusive Lock (1)  T2 - Shared Lock (9)  
+   T2 - Shared Lock (9)  
+   T2 - Shared Lock (9)  T2 - Shared Lock (7)  
+   T3 - Shared Lock (1)  T2 - Shared Lock (9)  T2 - Shared Lock (7)  
+   T3 - Shared Lock (1)  
+   No Lock

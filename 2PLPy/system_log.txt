@@ -1,0 +1,7 @@
+TaskType.WRITE, 0, T1, 1, 1, 5, -1
+TaskType.READ, 1, T2, 9, 9, -1
+TaskType.COMMIT, 2, T1, 0
+TaskType.READ, 3, T2, 7, 7, 1
+TaskType.READ, 4, T3, 1, 5, -1
+TaskType.COMMIT, 5, T2, 3
+TaskType.COMMIT, 6, T3, 4
